@@ -129,4 +129,4 @@ var play = function () {
         }
     }
 };
-console.log('play');
+console.log("To begin type 'play()' into the console.");
